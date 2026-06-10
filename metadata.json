@@ -1,0 +1,6 @@
+{
+  "name": "FloodGuard Bangladesh",
+  "description": "বাংলাদেশে বন্যা ঝুঁকি মোকাবেলায় একটি অত্যন্ত আধুনিক, ক্লিন ও ভিজ্যুয়াল আর্লি ওয়ার্নিং সিস্টেম অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
